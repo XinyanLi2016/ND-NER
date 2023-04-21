@@ -30,3 +30,16 @@ The entity types of ND-NER with detailed explanation is shown in the table.
 |NEW	|The New Concept Weapon entity contains directed energy weapons, kinetic energy weapons, genetic weapons, etc.|
 
 The dataset is distributed under CC BY-SA 4.0 license.
+
+## Citation
+If you use this work or code, please kindly cite this paper:
+```
+@inproceedings{li2023nd,
+  title={ND-NER: A Named Entity Recognition Dataset for OSINT Towards the National Defense Domain},
+  author={Li, Xinyan and Li, Dongxu and Yang, Zhihao and Zhao, Hui and Cai, Wei and Lin, Xi},
+  booktitle={Neural Information Processing: 29th International Conference, ICONIP 2022, Virtual Event, November 22--26, 2022, Proceedings, Part V},
+  pages={361--372},
+  year={2023},
+  organization={Springer}
+}
+```
