@@ -32,7 +32,7 @@ The entity types of ND-NER with detailed explanation is shown in the table.
 The dataset is distributed under CC BY-SA 4.0 license.
 
 ## Citation
-If you use this work or code, please kindly cite this paper:
+If you use this dataset, please kindly cite this paper:
 ```
 @inproceedings{li2023nd,
   title={ND-NER: A Named Entity Recognition Dataset for OSINT Towards the National Defense Domain},
